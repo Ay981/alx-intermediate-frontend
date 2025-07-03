@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Tailwind output
+0x02-tailwind-css/src/output.css
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
