@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "alx-intermediate-frontend",
+			"path": "../alx-intermediate-frontend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "alx-intermediate-frontend"
+	}
+}
